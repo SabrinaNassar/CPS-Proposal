@@ -2,6 +2,10 @@
 Summary: (Artistic/ design vision)
 Direct someone across the city using vibration in a easy and user-friendly way. The goal is to lessen inattentive blindness to increase awareness of surroundings when walking.
 
+Inspiration:
+https://www.youtube.com/watch?v=z7Dc5uvv_wg&feature=emb_logo
+https://www.youtube.com/watch?v=6wJ9Aakddng
+
 Physical parts/ components:
 	- Vibration motors
 	- bluetooth board 
